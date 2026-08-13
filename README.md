@@ -2,6 +2,7 @@
 
 > **Bootcamp em Ciência de Dados — Escola Atlântico Avanti 2026.2**
 > **Squad 8** — Gabriel Cavalcante, Luiz Vinícius, Isa Paula, Ítalo Marcony
+<img width="1919" height="650" alt="image" src="https://github.com/user-attachments/assets/bc3b6022-76d5-4802-9d4e-7ccf071d9b3e" />
 
 Este repositório reúne dois notebooks complementares que analisam o
 [Spanish Wine Quality Dataset](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset),
